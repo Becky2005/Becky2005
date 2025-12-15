@@ -4,10 +4,22 @@ I'm a Computer Science & Data Science student at the University of Michigan with
 
 ## 🌱 Currently Learning
 - Advanced algorithms & data structures  
-- React  
-- Django  
+- Full-stack web development 
+- Backend systems & API design  
 
 ## 💼 Projects
+
+### 🏠 [Big Houses](https://github.com/lsabrina51/bigHouses) (In Progress)
+
+A full-stack web application built to help University of Michigan students find reliable housing while reducing scams and misinformation by centralizing and standardizing listings.
+
+Highlights:
+- Developed a RESTful backend using Flask and SQLite
+- Integrated the Google Gemini API to generate standardized listings and personalized recommendations
+- Built server-rendered pages with Jinja and responsive HTML/CSS
+- Implemented filtering and search to improve browsing efficiency
+
+*Tech Stack:* Python, Flask, SQLite, Jinja, HTML/CSS, Gemini API
 
 ### 🔒 Finance Web App (Private)
 A stock trading simulation platform built with Flask, SQLite, and Python. Users can register, buy and sell stocks using real-time data, and view their portfolio and transaction history.
